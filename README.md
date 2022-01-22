@@ -1,6 +1,9 @@
 # KCTF-LoopInALoop
+
 KniightCTF2022 - Programming - Loop In A Loop - WriteUp
+
 Challenge Link: https://knightctf.com/challenges#Loop%20In%20A%20Loop-70
+
 Authors: Rina RANARISON (loonatic) https://knightctf.com/users/724
 
 ## The code which the flag was made
