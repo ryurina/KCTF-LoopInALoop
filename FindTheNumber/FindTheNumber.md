@@ -1,4 +1,4 @@
-# KCTF-LoopInALoop
+# KCTF-FindTheNumber
 
 KniightCTF2022 - Programming - Find The Number - WriteUp
 
