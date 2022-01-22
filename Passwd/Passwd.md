@@ -1,4 +1,4 @@
-# KCTF-BabyShark
+# KCTF-Passwd
 
 KniightCTF2022 - Cryptography - Passwd - WriteUp
 
