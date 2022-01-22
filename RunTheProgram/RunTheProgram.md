@@ -74,26 +74,34 @@ After I google (or duckduckgo) some line of the code, we know that this program 
 ### How to run it???
 - Rename the file "run.it" to "run.asm"
 - Put it into the same folder as MASM
+
 ![image](https://user-images.githubusercontent.com/45909337/150626069-86942b8f-2583-4706-a66f-fbc405e0a88e.png)
+
 - Run DOSBOX
 - Mount the MASM folder as C: in DOSBOX with the following command:
 ``` mount c ~/path/to/masm```
 - Then type ```c:``` to go to the directory
+
 ![image](https://user-images.githubusercontent.com/45909337/150626196-9e860415-dcd9-416d-bbcd-2ec4f8ab01c3.png)
+
 - To compile and run it, type:
 ```
 MASM.EXE RUN.ASM
 ```
+
 ![image](https://user-images.githubusercontent.com/45909337/150626243-76e1c871-2d12-408a-94db-d580ec1b4e2b.png)
+
 - Then enter the following command:
 ```
 LINK.EXE RUN.OBJ
 ```
 Press "Enter"
+
 ![image](https://user-images.githubusercontent.com/45909337/150626277-e6ceb94e-794b-4c40-bf73-d013fe24ecf4.png)
 
 - Now run it and get the flag
 ```RUN.EXE```
+
 ![image](https://user-images.githubusercontent.com/45909337/150626288-530c2365-8b33-4be3-9046-bb7d34f2beb5.png)
 
 Flag: KCTF{A553MblY}
